@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler Reid</h1>
 <h3 align="center">A Passionate Cyber Security Professional Living in S.F</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootkalirootkali&label=Profile%20views&color=0e75b6&style=flat" alt="rootkalirootkali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-cyber-defense&label=Profile%20views&color=0e75b6&style=flat" alt="the-cyber-defense" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootkalirootkali" alt="rootkalirootkali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-cyber-defense" alt="the-cyber-defense" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud Security**
 
