@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Cloud Security**
 
-- 🌱 I’m currently learning **CISSP,Cloud Services,XDR/EDR,XAM,IAM**
+- 🌱 I’m constantly learning **CISSP,Cloud Security/Pentesting,XDR/EDR,XAM,IAM,SOAR,SIEM**
 
 - 👯 I’m looking to collaborate on **Security Tool Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rootkalirootkali](https://github.com/rootkalirootkali)
+- 👨‍💻 All of my projects are available at [https://github.com/rootkalirootkali](https://github.com/the-cyber-defense)
 
-- 💬 Ask me about the **latest security news!**
+- 💬 Ask me about the **Latest security news!**
 
 - 📫 How to reach me **thedefense@icloud.com**
 
-- 📄 Know about my experiences [www.cyberdefense.space/TylersResume](www.cyberdefense.space/TylersResume)
+- 📄 Learn about my experiences [www.cyberdefense.space/TylersResume](www.cyberdefense.space/TylersResume)
 
 - ⚡ Fun fact **I believe you can accomplish anything you set your mind to.**
 
@@ -30,8 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootkalirootkali&show_icons=true&locale=en&layout=compact" alt="rootkalirootkali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-cyber-defense&show_icons=true&locale=en&layout=compact" alt="the-cyber-defense" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rootkalirootkali&show_icons=true&locale=en" alt="rootkalirootkali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-cyber-defense&show_icons=true&locale=en" alt="the-cyber-defense" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootkalirootkali&" alt="rootkalirootkali" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-cyber-defense&" alt="the-cyber-defense" /></p>
