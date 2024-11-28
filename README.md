@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **thedefense@icloud.com**
 
-- 📄 Learn about my experiences [www.cyberdefense.space/TylersResume](www.cyberdefense.space/TylersResume)
+- 📄 Learn about my experiences https://www.cyberd.space/tylersresume
 
 - ⚡ Fun fact **I believe you can accomplish anything you set your mind to.**
 
