@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cloud Security**
 
-- 🌱 I’m constantly learning **CISSP,Cloud Security/Pentesting,XDR/EDR,XAM,IAM,SOAR,SIEM**
+- 🌱 I’m constantly learning **CISSP,Cloud Security/Pentesting,OSINT**
 
 - 👯 I’m looking to collaborate on **Security Tool Development**
 
